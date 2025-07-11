@@ -4,7 +4,7 @@ This repository documents a hands-on penetration testing lab where I identified 
 
 > This was done in a **controlled lab environment** for **educational purposes only**.
 
--- **Tools Used**
+## Tools Used
 
 - Metasploit Framework
 - Nmap
@@ -12,9 +12,18 @@ This repository documents a hands-on penetration testing lab where I identified 
 - Kali Linux
 - Metasploitable 2 (vulnerable machine)
 
--- **What’s Covered:**
+## What’s Covered:
 - Nmap scanning
 - Identifying vulnerable services
 - Using Metasploit to launch an exploit
 - Understanding staged vs unstaged payloads
 - Managing sessions in Metasploit
+
+## Full Walkthrough (PDF):
+
+[Click here to view the full step-by-step guide (PDF)](https://github.com/khajaazhar/vsftpd-metasploit-lab/raw/main/exploit_steps.pdf)
+
+## Author
+
+**Khaja Azhar Uddin**  
+[LinkedIn](https://www.linkedin.com/in/khajaazhar/)  
